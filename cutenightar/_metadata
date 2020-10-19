@@ -1,0 +1,12 @@
+{
+  "author" : "RevenantBob",
+  "description" : "Makes Nightars have a bit cuter eyes just like the Cutebound mods.\n\nCompatible with Nightars species and Frackin' Universe.\n\n--- Original Nightar Race ---\n\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=741550312\n\n--- Frackin Universe Description Fix ---\n\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2141947777",
+  "friendlyName" : "Cuter Nightars",
+  "includes" : ["FrackinUniverse", "The Nightars"],
+  "link" : "steam://url/CommunityFilePage/1772846135",
+  "name" : "CuterNightars",
+  "requires" : [],
+  "steamContentId" : "1772846135",
+  "tags" : "NPCs and Creatures|Species",
+  "version" : "1.0.2"
+}

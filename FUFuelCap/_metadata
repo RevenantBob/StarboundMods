@@ -1,0 +1,12 @@
+{
+  "author" : "RevenantBob",
+  "description" : "Reverts Frackin' Universe fuel requirements to default for StarBound.\n\nNow you can zip around the galaxy at will!",
+  "friendlyName" : "Revert Frackin' Universe Fuel",
+  "includes" : ["FrackinUniverse"],
+  "link" : "steam://url/CommunityFilePage/1775190903",
+  "name" : "FUFuelRevert",
+  "requires" : [],
+  "steamContentId" : "1775190903",
+  "tags" : "Miscellaneous|Mechanics",
+  "version" : "1.0.0"
+}
